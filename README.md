@@ -135,9 +135,19 @@ build_win.bat / build_mac.sh / build_linux.sh  # 打包脚本
 
 ## 应用图例
 
+!深色主题截图
 ![深色主题1](images/theme_dark1.png)
+!深色主题截图
 ![深色主题2](images/theme_dark2.png)
+!深色主题截图
 ![深色主题3](images/theme_dark3.png)
+!浅色主题截图
 ![浅色主题1](images/theme_light1.png)
+!浅色主题截图
 ![浅色主题2](images/theme_light2.png)
+!浅色主题截图
 ![浅色主题3](images/theme_light3.png)
+
+## 关注我
+💻龙猫科技说 | 专注 AI 办公实操、软件提效技巧、各类 AI玩法、开发踩坑记录、科技资讯解读，只做普通人能落地的干货内容。看见科技赋予生活的万般美好，把热爱分享，让快乐翻倍😄
+![微信公众号](images/WeChatOfficialAccount.png)
