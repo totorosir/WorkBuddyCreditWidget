@@ -135,17 +135,16 @@ build_win.bat / build_mac.sh / build_linux.sh  # 打包脚本
 
 ## 应用图例
 
-!深色主题截图
 ![深色主题1](images/theme_dark1.png)
-!深色主题截图
+
 ![深色主题2](images/theme_dark2.png)
-!深色主题截图
+
 ![深色主题3](images/theme_dark3.png)
-!浅色主题截图
+
 ![浅色主题1](images/theme_light1.png)
-!浅色主题截图
+
 ![浅色主题2](images/theme_light2.png)
-!浅色主题截图
+
 ![浅色主题3](images/theme_light3.png)
 
 ## 关注我
